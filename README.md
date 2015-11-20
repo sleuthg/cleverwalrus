@@ -1,5 +1,5 @@
 # Clever Walrus
-Clever walrus is a tongue and cheek online platform built just for the fun of it.
+Clever walrus (www.cleverwalrus.com) is a tongue and cheek online platform built just for the fun of it.
 
 ## Why?
 I've built this platform for a few reasons:
