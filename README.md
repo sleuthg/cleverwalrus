@@ -24,6 +24,17 @@ things as well.  (MongoDB isn't in this app quite yet).
 I deploy my projects using Heroku.  This is mostly because that's what I started with, so it's the thing I know. Here
 are a few useful commands.  And I deploy via connecting Heroku with GitHub.
 
+Login
+```
+heroku login
+```
+
+Adding the remote (only need to do this once). For example `<git URL>` is `cleverwalrus` for this repo.
+```
+heroku git:remote -a <git URL>
+```
+
+Pushing to Heroku
 ```
 git push heroku master
 ```
